@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\MyForm1.h(300,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\MyForm1.h(301,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\MyForm1.h(302,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\MyForm.cpp(7,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FIRSTPROJECT.vcxproj -> C:\Users\sarki\source\repos\FIRSTPROJECT\Debug\FIRSTPROJECT.exe

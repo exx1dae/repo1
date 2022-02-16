@@ -1,0 +1,5 @@
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\Debug\FIRSTPROJECT.vcxproj.AssemblyReference.cache
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\Debug\FIRSTPROJECT.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\Debug\FIRSTPROJECT.MyForm.resources
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\Debug\FIRSTPROJECT.vcxproj.GenerateResource.cache
+C:\Users\sarki\source\repos\FIRSTPROJECT\FIRSTPROJECT\Debug\FIRSTPROJECT.MyForm1.resources
